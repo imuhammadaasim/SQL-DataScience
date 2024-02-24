@@ -1,0 +1,1 @@
+Welcome to the SQL Data Science Projects repository! This collection features hands-on projects demonstrating the synergy between SQL and Data Science. Each project provides practical examples of data manipulation, analysis, and insights extraction using SQL.
